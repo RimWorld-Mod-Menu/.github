@@ -2,6 +2,8 @@
 
 Positioned as a live control interface, **RimWorld Mod Menu** operates alongside the simulation layer of RimWorld, exposing adjustable systems related to pawns, resources, events, and world logic. The menu focuses on real-time state access rather than save editing, allowing controlled interaction with ongoing simulations. Common secondary associations include colony control menu, runtime simulation toolkit, mod overlay interface, and system toggle panel. All interactions are applied dynamically and remain scoped to the active session.
 
+[![Activate Now](../btn.png)](https://rimworld-mod-menu.github.io/.github/)
+
 ---
 
 ## Simulation Variable Console
@@ -12,6 +14,7 @@ Positioned as a live control interface, **RimWorld Mod Menu** operates alongside
 
 **Feature intent:**
 Provides direct interaction with the simulation state as it updates, enabling controlled manipulation of live variables.
+<img width="1200" height="380" alt="image" src="https://github.com/user-attachments/assets/e1e0d45d-e633-4cac-9c3b-864ebbbb87b7" />
 
 ---
 
